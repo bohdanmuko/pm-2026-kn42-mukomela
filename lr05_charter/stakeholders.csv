@@ -4,3 +4,4 @@ ST-02,Методист/лаборант розкладу,навчальна ча
 ST-03,Служба адміністрування акаунтів академії,ІТ-служба академії,low,high,blocker,keep_satisfied,PM
 ST-04,Студентське самоврядування,студентське самоврядування,high,low,neutral,keep_informed,BA
 ST-05,Староста групи,студенти,high,low,supporter,keep_informed,BA
+ST-06,Служба інформаційної безпеки академії,академія,high,high,neutral,manage_closely,PM
