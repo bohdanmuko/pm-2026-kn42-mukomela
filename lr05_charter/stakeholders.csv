@@ -5,3 +5,7 @@ ST-03,Служба адміністрування акаунтів академ�
 ST-04,Студентське самоврядування,студентське самоврядування,high,low,neutral,keep_informed,BA
 ST-05,Староста групи,студенти,high,low,supporter,keep_informed,BA
 ST-06,Служба інформаційної безпеки академії,академія,high,high,neutral,manage_closely,PM
+ST-07,PM (я),команда проєкту,high,high,supporter,manage_closely,PM
+ST-08,BA (бізнес-аналітик),команда проєкту,high,low,supporter,keep_informed,PM
+ST-09,Dev (розробник),команда проєкту,high,high,supporter,manage_closely,PM
+ST-10,QA (інженер з якості),команда проєкту,high,low,supporter,keep_informed,PM
