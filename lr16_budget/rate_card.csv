@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,320,415,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,"Senior Project Manager $3400 проти Senior Dev $4500 у DOU, тобто 0,76 ставки Dev; одна роль з відповідальністю за строк і бюджет"
+BA,0.5,320,415,https://dou.ua/lenta/articles/salary-report-data-summer-2026/,"Senior Business Analyst $3400, та сама частка 0,76 від Dev, що й PM, тому ставка однакова з PM"
+Dev,3.0,1920,550,https://dou.ua/lenta/articles/salary-report-devs-summer-2026/,"Три розробники повної зайнятості одним рядком; Senior Dev $4500 це база, від якої рахуються решта ставок"
+QA,1.0,640,342,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/,"Senior Manual QA $2800, тобто 0,62 ставки Dev: найнижча ставка команди, як і в огляді"
